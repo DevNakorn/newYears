@@ -66,7 +66,7 @@ export default function Home() {
       />
       <div style={{ position: 'relative', zIndex: 1, color: '#fff' }} className="mt-[100px]">
         <div className="max-w-[800px] text-center mx-auto justify-center align-middle">
-          <h1 className="text-6xl font-bold animate__animated animate__bounce animate__infinite animate__slow	">Happy New Years 2025</h1>
+          <h1 className="text-6xl font-bold animate__animated animate__bounce animate__infinite animate__slow	">Happy New Years</h1>
           <br />
           <br />
           <br />
